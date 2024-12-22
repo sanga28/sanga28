@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I’m Sanga! 👋</h1>
-<h3 align="center">I'm a CS Undergrad from IEM, Kolkata, India, with a passion for problem-solving and a drive to create innovative solutions through technology.</h3>
+<h3 align="center">I'm a CS Undergrad from IEM, Kolkata, passionate about leveraging technology to solve complex problems and create meaningful impact.</h3>
   <p align="left">
 <br>
 💡 What I Love Working On:
