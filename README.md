@@ -3,7 +3,7 @@
 </div>
 <hr>
 
-<h4 align='left'>Hey there, I’m Sanga! 👋</h4>
+<h3 align='left'>Hey there, I’m Sanga! 👋</h3>
 
 I'm a CS Undergrad from <a href="https://iem.edu.in/">IEM, Kolkata</a>, passionate about leveraging technology to solve complex problems and create meaningful impact.
   <p align="left">
