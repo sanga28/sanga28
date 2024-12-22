@@ -1,5 +1,21 @@
 <h1 align="center">👋 Hey there, I'm Sanga</h1>
-<h3 align="center">I'm a CS Undergrad from IEM, Kolkata, India. With a knack for problem-solving and a passion for innovative technology, looking forward to fuse my expertise in AI/ML, IOT and Web Development.</h3>
+<h3 align="center">I'm a CS Undergrad from IEM, Kolkata, India, with a passion for problem-solving and a drive to create innovative solutions through technology.</h3>
+  <p align="left">
+<br>
+💡 What I Love Working On:
+<br>
+<br>
+🧠 AI/ML: Turning data into actionable insights and intelligent systems.
+  <br>
+🌐 Web Development: Crafting seamless and responsive web experiences.
+  <br>
+🤖 IoT: Connecting the digital and physical worlds through smart devices.
+  <br>
+  <br>
+🚀 Looking Forward To:
+  <br>
+    <br>
+Bridging the gap between cutting-edge technologies and real-world applications. Let’s innovate and build together! </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanga28&label=Profile%20views&color=0e75b6&style=flat" alt="sanga28" /> </p>
