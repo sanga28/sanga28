@@ -1,13 +1,13 @@
-<h1 align="center">👋 Hey there, I'm Sanga</h1>
+<h1 align="center">Hey there, I’m Sanga! 👋</h1>
 <h3 align="center">I'm a CS Undergrad from IEM, Kolkata, India, with a passion for problem-solving and a drive to create innovative solutions through technology.</h3>
   <p align="left">
 <br>
 💡 What I Love Working On:
 <br>
 <br>
-🧠 AI/ML: Turning data into actionable insights and intelligent systems.
+🧠 AI/ML: Designing intelligent models and algorithms to solve real-world challenges.
   <br>
-🌐 Web Development: Crafting seamless and responsive web experiences.
+🌐 Web Development: Developing responsive, user-focused web applications with modern frameworks.
   <br>
 🤖 IoT: Connecting the digital and physical worlds through smart devices.
   <br>
