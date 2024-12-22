@@ -10,12 +10,9 @@ I'm a CS Undergrad from <a href="https://iem.edu.in/">IEM, Kolkata</a>, passiona
 <br>
 💡 What I Love Working On:
 <br>
-<br>
-🧠 <b>AI/ML:</b> Designing intelligent models and algorithms to solve real-world challenges.
-  <br>
-🌐 <b>Web Development:</b> Developing responsive, user-focused web applications with modern frameworks.
-  <br>
-🤖 <b>IoT:</b> Connecting the digital and physical worlds through smart devices.
+    <li> <b>AI/ML:</b> Designing intelligent models and algorithms to solve real-world challenges.</li>
+    <li> <b>Web Development:</b> Developing responsive, user-focused web applications with modern frameworks.</li>
+    <li> <b>IoT:</b> Connecting the digital and physical worlds through smart devices.</li>
   <br>
   <br>
 I'm always on the lookout for opportunities to collaborate and learn. </p>
