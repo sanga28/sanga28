@@ -26,10 +26,6 @@ I'm always on the lookout for opportunities to collaborate and learn. </p>
   ‎  <a href = "mailto:sangabhattacharjee544@gmail.com"><img src = "https://skillicons.dev/icons?i=gmail&theme=light" height=38></a>
 ‎  ‎ ‎ <a href = "https://www.linkedin.com/in/sanga-bhattacharjee-91794a28a/"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height=38></a>
 ‎  ‎ ‎ <a href = "https://www.instagram.com/s_bhattacharjee28/"><img src = "https://skillicons.dev/icons?i=instagram&theme=dark" height=38></a>
-
-  Feel free to connect with me in person if you'd like to hear the stories I’m not ready to share with the world.
-  <br>
-  <br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
