@@ -8,7 +8,7 @@
 I'm a CS Undergrad from <a href="https://iem.edu.in/">IEM, Kolkata</a>, passionate about leveraging technology to solve complex problems and create meaningful impact.
   <p align="left">
 <br>
-💡 What I Love Working On:
+💡 What I Love Working On: 
 <br>
     <li> <b>AI/ML:</b> Designing intelligent models and algorithms to solve real-world challenges.</li>
     <li> <b>Web Development:</b> Developing responsive, user-focused web applications with modern frameworks.</li>
