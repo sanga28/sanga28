@@ -31,8 +31,7 @@ I'm always on the lookout for opportunities to collaborate and learn. </p>
 
 <h3>GitHub Metrics:</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sanga28&theme=onedark&no-bg=true&no-frame=true&column=-1")](https://github.com/ryo-ma/github-profile-trophy)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=sanga28&theme=onedark&no-frame=true&no-bg=true&row=1&column=7)
 
 
 
