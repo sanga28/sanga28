@@ -37,5 +37,10 @@ I'm always on the lookout for opportunities to collaborate and learn. </p>
 
 
 
+
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanga28&show_icons=true&locale=en&theme=transparent&rank_icon=percentile" alt="sanga28" /> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanga28&border_radius=7&card_width=485&background=EBEBEB00&dates=078FE3&currStreakNum=CDC026&ring=EB9223&sideNums=06ABD1&sideLabels=EB5454&stroke=2C3043&border=282A31)](https://git.io/streak-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanga28&show_icons=true&locale=en&layout=compact&theme=transparent&langs_count=10" alt="sanga28" /> |
 | --- | --- | --- | 
+
+
+
+<p align="center"><img src="https://stats.quira.sh/sanga28/github?theme=dark" </p>
