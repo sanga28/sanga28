@@ -43,4 +43,4 @@ I'm always on the lookout for opportunities to collaborate and learn. </p>
 
 
 
-<p align="center"><img src="https://stats.quira.sh/sanga28/github?theme=dark" </p>
+
