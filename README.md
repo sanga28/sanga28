@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=sanga28&label=Profile%20views&color=0e75b6&style=flat" alt="sanga28" />
 </div>
 <hr>
-    
+     
 <h3 align='left'>Hey there, I’m Sanga! 👋</h3>
 
 I'm a CS Undergrad from <a href="https://iem.edu.in/">IEM, Kolkata</a>, passionate about leveraging technology to solve complex problems and create meaningful impact.
