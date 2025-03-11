@@ -1,4 +1,4 @@
-<h3 align='left'>Hey there, I’m Sanga! 👋</h3>
+ <h3 align='left'>Hey there, I’m Sanga! 👋</h3>
 <hr>
 
 
