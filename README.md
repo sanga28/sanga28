@@ -26,7 +26,7 @@ I'm always on the lookout for opportunities to collaborate and learn. </p>
 <h3 align="left">Coding Profiles:</h3>
 <p align = "left">
 <a href = "https://leetcode.com/Sanga_Bhattacharjee/"><img src = "https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06"></a>&nbsp;
-<a href = "https://www.cloudskillsboost.google/public_profiles/15f6c731-d5ab-42eb-b959-5a1ff243af8c"><img src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=oval-square&logo=google-cloud&logoColor=white"></a>
+<a href = "https://g.dev/sanga28"><img src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=oval-square&logo=google-cloud&logoColor=white"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
