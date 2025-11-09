@@ -2,8 +2,9 @@
 I'm always on the lookout for opportunities to collaborate and learn. </p>
 ## Connect with me:
 <p align="left">
-  ‎  <a href = "mailto:sangabhattacharjee544@gmail.com"><img src = "https://skillicons.dev/icons?i=gmail&theme=light" height=38></a>
-‎  ‎ ‎ <a href = "https://www.linkedin.com/in/sanga-bhattacharya-91794a28a/"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height=38></a>
+  ‎  <a href = "mailto:sangabhattacharjee544@gmail.com"><img src = "https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height=38></a>
+    <a href = "https://www.linkedin.com/in/sanga-bhattacharya-91794a28a/"><img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height=38></a>
+    <a href = "https://www.youtube.com/@DevHive-u4l"><img src = "https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" height=38></a>
 </p>
 
 
